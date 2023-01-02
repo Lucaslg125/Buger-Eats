@@ -1,0 +1,43 @@
+{
+     "signup": {
+          "nome": "Michele Santos Lima",
+          "cpf": "30457663073",
+          "email": "lima_santosm@gmail.com",
+          "wahtsapp": "61996144205",
+          "endereco": {
+               "cep": "70722500",
+               "rua": "CLN 102",
+               "numero": "191",
+               "complemento": "159",
+               "bairro": "Asa Norte",
+               "cidade_uf": "Brasília/DF"
+          },
+
+          "metodo_entrega": "Moto",
+          "cnh": "cnh-digital.jpg"
+     },
+
+     
+         
+"cpf_inv": {
+
+     "nome": "Michele Santos Lima",
+     "cpf": "xxx0065465",
+     "email": "lima_santosm@gmail.com",
+     "wahtsapp": "61996144205",
+     "endereco": {
+          "cep": "70722500",
+          "rua": "CLN 102",
+          "numero": "191",
+          "complemento": "159",
+          "bairro": "Asa Norte",
+          "cidade_uf": "Brasília/DF"
+     },
+
+     "metodo_entrega": "Moto",
+     "cnh": "cnh-digital.jpg"
+     
+     }
+
+}
+
